@@ -19,7 +19,7 @@ if( isset($_GET['res']) ){
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Judul halaman</title>
+    <title>Kalkulator</title>
 <style>
 .key{
     dispay: flex;
